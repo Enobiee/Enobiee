@@ -7,7 +7,6 @@
 💞️ I’m looking to collaborate on web dev projects <br/>
 ⚡ Fun fact: McDonald's serves spaghetti in the Philippines
 
-
   ---
   ### 
    📫 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basseygift555@gmail.com)
