@@ -3,7 +3,7 @@
 <h2>Hi, I'm Enobong 👋</h2>
 <h3>Frontend Web Developer</h3> <br/>
 🌱 I'm currently building a framework for my ideas <br/>
-🌱 I’m currently learning CSS <br/>
+🌱 I’m currently learning JavaScript <br/>
 💞️ I’m looking to collaborate on web dev projects <br/>
 ⚡ Fun fact: McDonald's serves spaghetti in the Philippines
 
