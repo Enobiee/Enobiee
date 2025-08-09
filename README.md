@@ -1,11 +1,11 @@
 <div align="center">
 <hr/>
 <h2>Hi, I'm Enobong 👋</h2>
-<h3>Frontend Web Developer</h3> <br/>
-🌱 I'm currently building a framework for my ideas <br/>
-🌱 I’m currently learning JavaScript <br/>
-💞️ I’m looking to collaborate on web dev projects <br/>
-⚡ Fun fact: McDonald's serves spaghetti in the Philippines
+<h3>Web 3 Technical Writer | Blockchain Educators</h3> <br/>
+🌱 I break down complex blockchain concepts into simple, beginner-friendly guides <br/>
+🌱 Currently documenting my journey into Ethereum, Solidity & smart contracts <br/>
+💞️ Open to collaborating with blockchain projects needing clear, engaging documentation <br/>
+⚡ Fun fact: The first NFT was created in 2014 before most people even knew Bitcoin
 
   ---
   ### 
