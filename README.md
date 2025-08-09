@@ -1,7 +1,7 @@
 <div align="center">
 <hr/>
 <h2>Hi, I'm Enobong 👋</h2>
-<h3>Web 3 Technical Writer|Blockchain Educator</h3> <br/>
+<h3>Web 3 Technical Writer| Blockchain Educator</h3> <br/>
 🌱 I break down complex blockchain concepts into simple, beginner-friendly guides <br/>
 🌱 Currently documenting my journey into Ethereum, Solidity & smart contracts <br/>
 💞️ Open to collaborating with blockchain projects needing clear, engaging documentation <br/>
